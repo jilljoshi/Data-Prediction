@@ -1,0 +1,1 @@
+accuracy = model.score(x_test, y_test)
